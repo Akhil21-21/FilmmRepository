@@ -11,8 +11,6 @@ public static void main(String[] args) {
 	
 	System.out.println("Sleeping");
 	System.out.println("Swimming");
-	
-	System.out.println("Fav hindi Movie - Krish");
 
 }
 }
