@@ -8,6 +8,9 @@ public static void main(String[] args) {
 	System.out.println("Singing");
 	System.out.println("Dancing");
 	System.out.println("Walikng in nature");
+	
+	System.out.println("Sleeping");
+	System.out.println("Swimming");
 
 }
 }
