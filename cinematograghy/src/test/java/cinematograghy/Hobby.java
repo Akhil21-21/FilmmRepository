@@ -16,5 +16,8 @@ public static void main(String[] args) {
 	System.out.println("Krish");
 	System.out.println("Kannada Movie - Doddamane huduga");
 
+	System.out.println("Fav hindi Movie - Krish");
+	System.out.println("Krish");
+	System.out.println("Kannada Movie - Doddamane huduga");
 }
 }
